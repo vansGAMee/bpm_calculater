@@ -1,0 +1,5 @@
+bpm
+app
+libs/
+build/
+*.o
